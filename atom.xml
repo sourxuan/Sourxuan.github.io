@@ -2,7 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sourxuan.github.io</id>
     <title>SourLab</title>
+<<<<<<< HEAD
     <updated>2022-04-26T16:30:13.407Z</updated>
+=======
+    <updated>2022-04-26T16:02:16.837Z</updated>
+>>>>>>> parent of ffb3860 (1)
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sourxuan.github.io"/>
     <link rel="self" href="https://sourxuan.github.io/atom.xml"/>
