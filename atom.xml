@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sourxuan.github.io</id>
+    <title>SourLab</title>
+    <updated>2022-04-26T16:02:16.837Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sourxuan.github.io"/>
+    <link rel="self" href="https://sourxuan.github.io/atom.xml"/>
+    <subtitle>MAKE★MMD★GREAT★AGAIN</subtitle>
+    <logo>https://sourxuan.github.io/images/avatar.png</logo>
+    <icon>https://sourxuan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, SourLab</rights>
+    <entry>
+        <title type="html"><![CDATA[Sour式初音ミクVer.1.01]]></title>
+        <id>https://sourxuan.github.io/post/sourmiku/</id>
+        <link href="https://sourxuan.github.io/post/sourmiku/">
+        </link>
+        <updated>2017-08-30T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://sourxuan.github.io/post-images/1650984608335.png" alt="" loading="lazy"><br>
+配布地址：<br>
+Bowlroll：<br>
+POPPRO：</p>
+<p>----------◆Sour式初音ミクVer.1.00◆---------</p>
+<p>製作者/Modeller：Sour暄</p>
+<p>-----------禁止事項/Forbidden-----------</p>
+<p>・商用利用<br>
+商业使用<br>
+Commercial use</p>
+<p>・R18、政治、宗教の使用<br>
+涉及R18、政治、宗教的使用<br>
+R-18、political、religious use</p>
+<p>・他者や他国を侮蔑するための利用<br>
+侮辱他人或国家的使用<br>
+Contempt towards countries or people</p>
+<p>・公序良俗、良識に反する使用<br>
+违反公共秩序与善良风俗、明智、健全的判断力的使用<br>
+violating public and order, lack of wise and subtle judgment.</p>
+<p>・このデータの製作者を騙ること。<br>
+欺瞒作者的信息<br>
+Deceiving/Claiming to be the original creator</p>
+<p>-----------改造&amp;再配布/Redistribution and edit-----------</p>
+<p>・改造、再配布OKです, 但し、このモデルの一部を別モデルに移植不可。<br>
+允许改造、二次配布，但是不能拆取部件到其它式的模型上<br>
+Allowed to edit and redistribution,but all parts of this model can't be transplanted on other models</p>
+<p>・このreadme、改造者readmeを添付<br>
+这个readme、改造者的readme必须保留<br>
+You have to add this readme and your own readme to the folder if you edit this model and distribute</p>
+<p>-----------免責/Disclaimer-----------</p>
+<p>このデータを使用したことにより何らかのトラブルが発生した場合でも、当方は一切の責任を負いません。<br>
+请自觉遵守相关规则，本文件使用过程中所发生的一切问题，本人不承担任何责任。<br>
+The creator of this model data is not responsible for any damage caused by using this model</p>
+<p>-----------謝辞/Acknowledgments-----------</p>
+<p>YYB<br>
+REMmaple</p>
+<p>-----------更新履歴/Revision history-----------</p>
+<p>・2017/08/31　Ver.1.00 公開/Distribution</p>
+]]></content>
+    </entry>
+</feed>
